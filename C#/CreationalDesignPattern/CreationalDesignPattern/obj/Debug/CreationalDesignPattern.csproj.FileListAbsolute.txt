@@ -1,0 +1,7 @@
+C:\Users\phuon\source\repos\CreationalDesignPattern\CreationalDesignPattern\bin\Debug\CreationalDesignPattern.exe.config
+C:\Users\phuon\source\repos\CreationalDesignPattern\CreationalDesignPattern\bin\Debug\CreationalDesignPattern.exe
+C:\Users\phuon\source\repos\CreationalDesignPattern\CreationalDesignPattern\bin\Debug\CreationalDesignPattern.pdb
+C:\Users\phuon\source\repos\CreationalDesignPattern\CreationalDesignPattern\obj\Debug\CreationalDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\CreationalDesignPattern\CreationalDesignPattern\obj\Debug\CreationalDesignPattern.exe
+C:\Users\phuon\source\repos\CreationalDesignPattern\CreationalDesignPattern\obj\Debug\CreationalDesignPattern.pdb
+C:\Users\phuon\source\repos\CreationalDesignPattern\CreationalDesignPattern\obj\Debug\CreationalDesignPattern.csproj.AssemblyReference.cache
